@@ -29,7 +29,7 @@ This project solves that by building a self-correcting pipeline that:
 - Drift detection successfully triggered on simulated distribution shifts
 - Automated retraining recovered model accuracy post-drift
 
-## 🔮 Future Scope
+##  Future Scope
 - Advanced drift detection using PSI or KL Divergence
 - Real-time streaming with Apache Kafka
 - Cloud deployment on AWS/GCP with CI/CD pipelines
